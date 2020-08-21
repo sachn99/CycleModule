@@ -1,0 +1,32 @@
+{
+  "frame": [
+    {
+      "frameType": "steelFrame"
+    }
+  ],
+  "wheel": [
+    {
+      "tyreType": "tubedTyre",
+      "spokeType": "spoke",
+      "rimsType": "tabularRim"
+    }
+  ],
+  "seat": [
+    {
+      "seatSize": "smallSeat"
+    }
+  ],
+  "handleAndBrake": [
+    {
+      "handleType": "flatHandle",
+      "brakeType": "coastBrake"
+    }
+  ],
+  "chainAssembly": [
+    {
+      "gear": "GearLess",
+      "chainType": "alloySteel"
+    }
+  ],
+  "orderDate": "13-08-2020"
+}
